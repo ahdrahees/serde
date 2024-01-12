@@ -10,7 +10,7 @@ base = "0.10.3"
 itertools = "0.1.2"
 candid = "1.0.2"
 xtended-numbers = "0.2.1"
-json = "https://github.com/aviate-labs/json.mo#v0.2.0@99ae3761c09622a98ae45ebd9ad68f01353df336"
+json = "https://github.com/tomijaga/json.mo#float@f3c8e7d418a7a8f2d6c0d7e2d276a0a82c2046ff"
 parser-combinators = "https://github.com/aviate-labs/parser-combinators.mo#v0.1.2@6a331bf78e9dcd7623977f06c8e561fd1a8c0103"
 cbor = "0.1.3"
 
